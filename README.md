@@ -24,6 +24,6 @@ https://derekwu93.github.io/Batman-Fan-Page/
 
 
 ### Project Photos
-<img width="468" height="319" alt="image" src="https://github.com/user-attachments/assets/260438f1-5de2-4e23-bf2e-5a58d56a0b00" />
+<img width="1068" height="719" alt="image" src="https://github.com/user-attachments/assets/260438f1-5de2-4e23-bf2e-5a58d56a0b00" />
 
 Low Fidelity Wireframe with Video of the Batman Fan Page.
