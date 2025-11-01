@@ -27,3 +27,11 @@ https://derekwu93.github.io/Batman-Fan-Page/
 <img width="1068" height="719" alt="image" src="https://github.com/user-attachments/assets/260438f1-5de2-4e23-bf2e-5a58d56a0b00" />
 
 Low Fidelity Wireframe with Video of the Batman Fan Page.
+
+
+#### Additional Remarks
+
+I hope to make some revisions with this project in the near future. I’m considering adding a page
+that features audiences reviews to help fans feel more seen and heard within the Batman
+community. I am aiming at updating the website at least on a weekly basis to keep up with new
+Batman media releases, including comic books, television shows, etc.
